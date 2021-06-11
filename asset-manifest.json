@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nsk2106/material-UI-typescript/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/nsk2106/material-UI-typescript/static/js/main.4f9227de.chunk.js",
+    "main.js.map": "/nsk2106/material-UI-typescript/static/js/main.4f9227de.chunk.js.map",
+    "runtime-main.js": "/nsk2106/material-UI-typescript/static/js/runtime-main.99670379.js",
+    "runtime-main.js.map": "/nsk2106/material-UI-typescript/static/js/runtime-main.99670379.js.map",
+    "static/js/2.9728bcce.chunk.js": "/nsk2106/material-UI-typescript/static/js/2.9728bcce.chunk.js",
+    "static/js/2.9728bcce.chunk.js.map": "/nsk2106/material-UI-typescript/static/js/2.9728bcce.chunk.js.map",
+    "static/js/3.c7aff8cc.chunk.js": "/nsk2106/material-UI-typescript/static/js/3.c7aff8cc.chunk.js",
+    "static/js/3.c7aff8cc.chunk.js.map": "/nsk2106/material-UI-typescript/static/js/3.c7aff8cc.chunk.js.map",
+    "index.html": "/nsk2106/material-UI-typescript/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/nsk2106/material-UI-typescript/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.9728bcce.chunk.js.LICENSE.txt": "/nsk2106/material-UI-typescript/static/js/2.9728bcce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99670379.js",
+    "static/js/2.9728bcce.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.4f9227de.chunk.js"
+  ]
+}
